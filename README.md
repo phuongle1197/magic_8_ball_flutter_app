@@ -1,4 +1,4 @@
-# magic_8_ball_flutter
+# Magic 8 Ball
 
 This application is one of the challenges in The Complete 2020 Flutter Development Bootcamp with Dart.
 It is a Magic 8 Ball app, which you can ask to answer all of your difficult life questions, such as
